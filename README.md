@@ -39,7 +39,7 @@
 ### 💻 Featured Projects
 
 | Project | Description | Tech Stack | Status | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- |
 | **⚖️ LAWYER.AI** | Web platform connecting lawyers, students, and civilians with AI legal help and chat modules. | `Python`, `JS`, `HTML`, `CSS` | 🟢 Completed | [LAWYER.AI](https://github.com/lawyerai-system/Lawyer.AI-v4) |
 | **🎨 Portfolio** | Personal portfolio website showcasing projects, skills, and credentials. | `JS`, `CSS`, `HTML` | 🟢 Completed | [Portfolio](https://github.com/Hetk8406/Portfolio) |
 | **🔍 FoundIt-App** | Smart lost-and-found web app connecting reports with a university matching engine. | `JS`, `CSS`, `HTML` | 🟢 Completed | [FoundIt](https://github.com/lostfound-system/FoundIt-App) |
