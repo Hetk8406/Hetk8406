@@ -115,13 +115,9 @@
 | **⚖️ LAWYER.AI** | Web platform connecting lawyers, students, and civilians with AI legal help and chat. | `Python`, `JS`, `HTML`, `CSS` | 🟢 Completed | [LAWYER.AI](https://github.com/Hetk8406/LAWYER.AI) | — |
 | **🎨 Portfolio** | Personal portfolio website showcasing projects, skills, and credentials. | `JS`, `CSS`, `HTML` | 🟢 Completed | [Portfolio](https://github.com/Hetk8406/Portfolio) | — |
 | **🧠 LeetCode Solutions** | Optimized solutions to various LeetCode DSA and algorithms problems. | `C++`, `DSA` | 🟢 Completed | [Solutions](https://github.com/Hetk8406/Leet-Code-Solutions) | — |
-| **🌌 RAG AI Assistant** | Retrieval-Augmented Generation assistant using LangChain to parse documents. | `Python`, `LangChain` | 🟡 In Progress | [RAG-Assistant](https://github.com/Hetk8406) | — |
-| **👁️ Vision Tracker** | Edge-optimized computer vision tracker for real-time video object detection. | `Python`, `PyTorch`, `OpenCV` | 🟢 Completed | [Vision-Tracker](https://github.com/Hetk8406) | — |
-| **⚙️ MLOps Pipeline** | Autoscaling model packaging and CI/CD pipelines deploying to GCP. | `Docker`, `GCP`, `MLflow` | 🟢 Completed | [MLOps-Pipeline](https://github.com/Hetk8406) | — |
-| **🔗 Agent Ledger** | Secure transactional decision ledger for autonomous AI agent nodes. | `Rust`, `SQLite`, `gRPC` | 🟢 Completed | [Agent-Ledger](https://github.com/Hetk8406) | — |
-| **🧩 Neural Graph** | Graph neural network visualizer representing embedding space dynamics. | `Python`, `Next.js`, `D3.js` | 🟡 In Progress | [Neural-Graph](https://github.com/Hetk8406) | — |
 
 *Feel free to explore my full list of repositories to see more of my work.*
+
 
 
 ### 📊 Analytics & Activity
