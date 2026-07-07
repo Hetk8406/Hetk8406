@@ -28,18 +28,6 @@
 
 ---
 
-### 📂 Profile Directory
-```text
-├── assets/
-│   ├── hero_banner.png          # Premium AI/ML Theme Banner
-│   └── icons/                   # Custom Local Tech & Section Icons
-├── README.md                    # Main Profile File
-├── DESIGN.md                    # Personal Branding & Specs
-└── CONFIGURATION.md             # Customization & Configuration Guides
-```
-
----
-
 ### 🔭 About Me
 *   **🔭 I'm currently working on**: AI/ML projects, Full-stack web applications, and intelligent AI assistants powered by LLMs.
 *   **👯 I'm looking to collaborate on**: Open-source AI, Machine Learning, Python, and modern web development projects.
@@ -47,6 +35,21 @@
 *   **🌱 I'm currently learning**: Deep Learning, LLM applications, RAG systems, Agentic AI, and cloud deployment.
 *   **💬 Ask me about**: Python, Machine Learning, Data Science, React, Node.js, AI chatbots, and Full-stack development.
 *   **⚡ Fun fact**: I enjoy turning ideas into real projects and believe the best way to learn is by building.
+
+---
+
+### 💻 Featured Projects
+
+| Project | Description | Tech Stack | Status | Repository | Live Demo |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **⚖️ LAWYER.AI** | Web platform connecting lawyers, students, and civilians with AI legal help and chat modules. | `Python`, `JS`, `HTML`, `CSS` | 🟢 Completed | [LAWYER.AI](https://github.com/lawyerai-system/Lawyer.AI-v4) | — |
+| **🎨 Portfolio** | Personal portfolio website showcasing projects, skills, and credentials. | `JS`, `CSS`, `HTML` | 🟢 Completed | [Portfolio](https://github.com/Hetk8406/Portfolio) | — |
+| **🔍 FoundIt-App** | Smart lost-and-found web app connecting reports with a university matching engine. | `JS`, `CSS`, `HTML` | 🟢 Completed | [FoundIt](https://github.com/lostfound-system/FoundIt-App) | — |
+| **🔎 ConceptLens** | AI education platform for professor assessments, performance dashboards, and learning metrics. | `Python`, `JS` | 🟢 Completed | [ConceptLens](https://github.com/conceptlens-system/CONCEPTLENS-v4.0) | — |
+| **📈 Stock Predictor** | Machine learning-based predictor analyzing and forecasting Indian stock price directions. | `Python`, `ML` | 🟡 In Progress | [Stock-Predictor](https://github.com/Hetk8406/Indian-Stock-Predictor) | — |
+| **💰 Finora** | Personal financial assistant built for budget tracking, insights, and saving tips. | `Python`, `Django` | 🟡 In Progress | [Finora](https://github.com/Hetk8406/Finora) | — |
+
+*Feel free to explore my full list of repositories to see more of my work.*
 
 ---
 
@@ -107,19 +110,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-### 💻 Featured Projects
-
-| Project | Description | Tech Stack | Status | Repository | Live Demo |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **⚖️ LAWYER.AI** | Web platform connecting lawyers, students, and civilians with AI legal help and chat modules. | `Python`, `JS`, `HTML`, `CSS` | 🟢 Completed | [LAWYER.AI](https://github.com/lawyerai-system/Lawyer.AI-v4) | — |
-| **🎨 Portfolio** | Personal portfolio website showcasing projects, skills, and credentials. | `JS`, `CSS`, `HTML` | 🟢 Completed | [Portfolio](https://github.com/Hetk8406/Portfolio) | — |
-| **🔍 FoundIt-App** | Smart lost-and-found web app connecting reports with a university matching engine. | `JS`, `CSS`, `HTML` | 🟢 Completed | [FoundIt](https://github.com/lostfound-system/FoundIt-App) | — |
-| **🔎 ConceptLens** | AI education platform for professor assessments, performance dashboards, and learning metrics. | `Python`, `JS` | 🟢 Completed | [ConceptLens](https://github.com/conceptlens-system/CONCEPTLENS-v4.0) | — |
-| **📈 Stock Predictor** | Machine learning-based predictor analyzing and forecasting Indian stock price directions. | `Python`, `ML` | 🟡 In Progress | [Stock-Predictor](https://github.com/Hetk8406/Indian-Stock-Predictor) | — |
-| **💰 Finora** | Personal financial assistant built for budget tracking, insights, and saving tips. | `Python`, `Django` | 🟡 In Progress | [Finora](https://github.com/Hetk8406/Finora) | — |
-
-*Feel free to explore my full list of repositories to see more of my work.*
 
 
 
