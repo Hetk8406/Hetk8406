@@ -65,66 +65,31 @@ I am a **Machine Learning Engineer and Full-Stack Developer** dedicated to build
 
 ---
 
-### 💻 Featured Projects (Bento Showcase)
+### 💻 Featured Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🌌 LLM Orchestrator</h4>
-      <p>An intelligent agent execution framework for managing multi-agent RAG tasks and document workflows.</p/>
-      <code>Python</code> <code>LangChain</code> <code>FastAPI</code> <code>Docker</code><br/>
-      <a href="https://github.com/Hetk8406">Codebase</a> | <a href="#">Live Demo</a>
+    <td width="33.3%" valign="top">
+      <h4>⚖️ LAWYER.AI</h4>
+      <p>A web platform that connects lawyers, law students, and civilians. Features AI-driven legal assistance, blogs, courtroom modules, and real-time chat.</p>
+      <code>Python</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code><br/><br/>
+      <a href="https://github.com/Hetk8406/LAWYER.AI">💻 Codebase</a>
     </td>
-    <td width="50%" valign="top">
-      <h4>📈 Distributed Pipeline</h4>
-      <p>A real-time distributed data processing engine built on top of Kafka and Redis for high-throughput messaging.</p/>
-      <code>Java</code> <code>Kafka</code> <code>Redis</code> <code>Kubernetes</code><br/>
-      <a href="https://github.com/Hetk8406">Codebase</a> | <a href="#">Live Demo</a>
+    <td width="33.3%" valign="top">
+      <h4>🎨 Professional Portfolio</h4>
+      <p>Personal portfolio website designed to showcase projects, active skills, credentials, and contact interfaces.</p>
+      <code>JavaScript</code> <code>CSS</code> <code>HTML</code><br/><br/>
+      <a href="https://github.com/Hetk8406/Portfolio">💻 Codebase</a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ Vision Analyzer</h4>
-      <p>Edge-optimized computer vision system for real-time object tracking and segmentation.</p/>
-      <code>Python</code> <code>PyTorch</code> <code>OpenCV</code> <code>C++</code><br/>
-      <a href="https://github.com/Hetk8406">Codebase</a> | <a href="#">Live Demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛡️ Cloud Shield</h4>
-      <p>A zero-trust authentication and authorization server configured for cloud microservices.</p/>
-      <code>Go</code> <code>gRPC</code> <code>Postgres</code> <code>OAuth2</code><br/>
-      <a href="https://github.com/Hetk8406">Codebase</a> | <a href="#">Live Demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧩 Model Predictor</h4>
-      <p>Autoscaling ML inference engine serving deep learning predictions with under 50ms latency.</p/>
-      <code>Python</code> <code>ONNX</code> <code>Triton</code> <code>GCP</code><br/>
-      <a href="https://github.com/Hetk8406">Codebase</a> | <a href="#">Live Demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎨 Studio Canvas</h4>
-      <p>A web-based collaborative whiteboarding tool featuring vector editing and real-time state sync.</p/>
-      <code>TypeScript</code> <code>React</code> <code>WebSockets</code> <code>Vite</code><br/>
-      <a href="https://github.com/Hetk8406">Codebase</a> | <a href="#">Live Demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧠 Neural Graph</h4>
-      <p>Interactive graph neural network visualizer designed to analyze embedding space dynamics.</p/>
-      <code>Python</code> <code>PyTorch Geometric</code> <code>Next.js</code> <code>D3</code><br/>
-      <a href="https://github.com/Hetk8406">Codebase</a> | <a href="#">Live Demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔗 Agent Ledger</h4>
-      <p>Secure metadata storage ledger for recording transactional decisions made by autonomous AI agents.</p/>
-      <code>Rust</code> <code>SQLite</code> <code>Web3.js</code> <code>gRPC</code><br/>
-      <a href="https://github.com/Hetk8406">Codebase</a> | <a href="#">Live Demo</a>
+    <td width="33.3%" valign="top">
+      <h4>🧠 LeetCode Solutions</h4>
+      <p>A repository containing optimized solutions to various LeetCode problems covering complex data structures and algorithms.</p>
+      <code>C++</code> <code>DSA</code> <code>Algorithms</code><br/><br/>
+      <a href="https://github.com/Hetk8406/Leet-Code-Solutions">💻 Codebase</a>
     </td>
   </tr>
 </table>
+
 
 ---
 
