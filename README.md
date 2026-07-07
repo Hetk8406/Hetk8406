@@ -1,8 +1,4 @@
 <!-- AUTOMATICALLY GENERATED - PREMIUM GITHUB PROFILE -->
-<p align="center">
-  <img src="assets/hero_banner.png" alt="Het Kikani - Machine Learning & Full-Stack Engineer" width="100%" />
-</p>
-
 <h1 align="center">Het Kikani</h1>
 <p align="center">
   <strong>Machine Learning Engineer & Full-Stack Developer</strong>
