@@ -125,7 +125,7 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
+  <a href="https://hetkikani.vercel.app/">
     <img src="https://komarev.com/ghpvc/?username=Hetk8406&icon=6&color=1F2327&style=flat-square" alt="Visitor Counter" />
   </a>
 </p>
