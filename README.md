@@ -1,32 +1,156 @@
-# 💫 About Me:
-🔭 I'm currently working on:<br>AI/ML projects, Full-stack web applications, and intelligent AI assistants powered by LLMs.<br> <br>
-👯 I'm looking to collaborate on:<br>Open-source AI, Machine Learning, Python, and modern web development projects.<br> <br>
-🤝 I'm looking for help with:<br>MLOps, scalable AI deployment, and advanced system architecture.<br> <br>
-🌱 I'm currently learning:<br>Deep Learning, LLM applications, RAG systems, Agentic AI, and cloud deployment.<br> <br>
-💬 Ask me about:<br>Python, Machine Learning, Data Science, React, Node.js, AI chatbots, and Full-stack development.<br> <br>
-⚡ Fun fact:<br>I enjoy turning ideas into real projects and believe the best way to learn is by building.
+<!-- AUTOMATICALLY GENERATED - PREMIUM GITHUB PROFILE -->
+<p align="center">
+  <img src="assets/hero_banner.png" alt="Het Kikani - Machine Learning & Full-Stack Engineer" width="100%" />
+</p>
 
+<h1 align="center">Het Kikani</h1>
+<p align="center">
+  <strong>Machine Learning Engineer & Full-Stack Developer</strong>
+</p>
 
-## 🌐 Socials:
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/het-kikani-67817236b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/het-kikani-67817236b/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/hetkikani_804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hetkikani_804" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@hetkikani880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@hetkikani880" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/hetkikani990/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hetkikani990/" height="30" width="40" /></a>
-<a href="https://x.com/https://x.com/kikanihet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/kikanihet" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8AB4F8&center=true&vCenter=true&width=435&lines=Building+Intelligent+AI+Systems;Deploying+Robust+ML+Pipelines;Crafting+Premium+Full-Stack+Apps" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Hetk8406&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Hetk8406&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hetk8406&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hetk8406&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/het-kikani-67817236b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hetkikani880@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/u/hetkikani990/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://x.com/kikanihet"><img src="https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="X" /></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Hetk8406&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📂 Profile Directory
+```text
+├── assets/
+│   ├── hero_banner.png          # Premium AI/ML Theme Banner
+│   └── icons/                   # Custom Local Tech & Section Icons
+├── README.md                    # Main Profile File
+├── DESIGN.md                    # Personal Branding & Specs
+└── CONFIGURATION.md             # Customization & Configuration Guides
+```
+
+---
+
+### 🔭 About Me
+I am a **Machine Learning Engineer and Full-Stack Developer** dedicated to building high-performance intelligence pipelines and user experiences. My focus lies at the intersection of robust algorithmic modeling and production-scale software delivery. I believe that engineering excellence is born from the combination of theoretical precision and clean, maintainable systems code.
+
+*   **Current Focus**: Distributed deep learning, LLM fine-tuning, RAG systems, and high-performance backend development.
+*   **Engineering Philosophy**: Keep architectures decoupled, write clean testable code, and deploy with strict CI/CD guidelines.
+*   **Looking to Collaborate**: Scalable MLOps architecture, open-source LLM tools, and advanced data visualization libraries.
+
+---
+
+### 🛠️ Tech Stack & Capabilities
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>🧠 Artificial Intelligence & ML</strong><br/>
+      <code>PyTorch</code> <code>TensorFlow</code> <code>Keras</code> <code>scikit-learn</code> <code>FastAPI</code> <code>OpenCV</code> <code>MLflow</code> <code>NumPy</code> <code>Pandas</code>
+    </td>
+    <td valign="top" width="50%">
+      <strong>💻 Languages & Core</strong><br/>
+      <code>Python</code> <code>JavaScript</code> <code>Java</code> <code>C / C++</code> <code>Dart</code> <code>SQL</code> <code>PowerShell</code> <code>Bash</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>🌐 Web & Systems</strong><br/>
+      <code>React.js</code> <code>Next.js</code> <code>Node.js</code> <code>Django</code> <code>Flask</code> <code>Flutter</code> <code>Express.js</code> <code>TailwindCSS</code> <code>Vite</code>
+    </td>
+    <td valign="top" width="50%">
+      <strong>🗄️ Infrastructure & Cloud</strong><br/>
+      <code>Docker</code> <code>Supabase</code> <code>Firebase</code> <code>Google Cloud</code> <code>Postgres</code> <code>MongoDB</code> <code>MySQL</code> <code>Git</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Featured Projects (Bento Showcase)
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌌 LLM Orchestrator</h4>
+      <p>An intelligent agent execution framework for managing multi-agent RAG tasks and document workflows.</p/>
+      <code>Python</code> <code>LangChain</code> <code>FastAPI</code> <code>Docker</code><br/>
+      <a href="https://github.com/Hetk8406">Codebase</a> | <a href="#">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 Distributed Pipeline</h4>
+      <p>A real-time distributed data processing engine built on top of Kafka and Redis for high-throughput messaging.</p/>
+      <code>Java</code> <code>Kafka</code> <code>Redis</code> <code>Kubernetes</code><br/>
+      <a href="https://github.com/Hetk8406">Codebase</a> | <a href="#">Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Vision Analyzer</h4>
+      <p>Edge-optimized computer vision system for real-time object tracking and segmentation.</p/>
+      <code>Python</code> <code>PyTorch</code> <code>OpenCV</code> <code>C++</code><br/>
+      <a href="https://github.com/Hetk8406">Codebase</a> | <a href="#">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ Cloud Shield</h4>
+      <p>A zero-trust authentication and authorization server configured for cloud microservices.</p/>
+      <code>Go</code> <code>gRPC</code> <code>Postgres</code> <code>OAuth2</code><br/>
+      <a href="https://github.com/Hetk8406">Codebase</a> | <a href="#">Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧩 Model Predictor</h4>
+      <p>Autoscaling ML inference engine serving deep learning predictions with under 50ms latency.</p/>
+      <code>Python</code> <code>ONNX</code> <code>Triton</code> <code>GCP</code><br/>
+      <a href="https://github.com/Hetk8406">Codebase</a> | <a href="#">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎨 Studio Canvas</h4>
+      <p>A web-based collaborative whiteboarding tool featuring vector editing and real-time state sync.</p/>
+      <code>TypeScript</code> <code>React</code> <code>WebSockets</code> <code>Vite</code><br/>
+      <a href="https://github.com/Hetk8406">Codebase</a> | <a href="#">Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Neural Graph</h4>
+      <p>Interactive graph neural network visualizer designed to analyze embedding space dynamics.</p/>
+      <code>Python</code> <code>PyTorch Geometric</code> <code>Next.js</code> <code>D3</code><br/>
+      <a href="https://github.com/Hetk8406">Codebase</a> | <a href="#">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔗 Agent Ledger</h4>
+      <p>Secure metadata storage ledger for recording transactional decisions made by autonomous AI agents.</p/>
+      <code>Rust</code> <code>SQLite</code> <code>Web3.js</code> <code>gRPC</code><br/>
+      <a href="https://github.com/Hetk8406">Codebase</a> | <a href="#">Live Demo</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Analytics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Hetk8406&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hetk8406&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Hetk8406&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hetk8406&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=Hetk8406&icon=6&color=1F2327&style=flat-square" alt="Visitor Counter" />
+  </a>
+</p>
