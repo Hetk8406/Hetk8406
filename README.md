@@ -110,50 +110,19 @@
 
 ### 💻 Featured Projects
 
-<table>
-  <tr>
-    <td width="33.3%" valign="top">
-      <h4>⚖️ LAWYER.AI</h4>
-      <p>A web platform that connects lawyers, law students, and civilians. Features AI-driven legal assistance, blogs, courtroom modules, and real-time chat.</p>
-      <code>Python</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code><br/><br/>
-      <a href="https://github.com/Hetk8406/LAWYER.AI">💻 Codebase</a>
-    </td>
-    <td width="33.3%" valign="top">
-      <h4>🎨 Professional Portfolio</h4>
-      <p>Personal portfolio website designed to showcase projects, active skills, credentials, and contact interfaces.</p>
-      <code>JavaScript</code> <code>CSS</code> <code>HTML</code><br/><br/>
-      <a href="https://github.com/Hetk8406/Portfolio">💻 Codebase</a>
-    </td>
-    <td width="33.3%" valign="top">
-      <h4>🧠 LeetCode Solutions</h4>
-      <p>A repository containing optimized solutions to various LeetCode problems covering complex data structures and algorithms.</p>
-      <code>C++</code> <code>DSA</code> <code>Algorithms</code><br/><br/>
-      <a href="https://github.com/Hetk8406/Leet-Code-Solutions">💻 Codebase</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33.3%" valign="top">
-      <h4>🌌 RAG AI Assistant</h4>
-      <p>Retrieval-Augmented Generation assistant leveraging LangChain, vector embeddings, and LLMs to parse and answer domain documents.</p>
-      <code>Python</code> <code>LangChain</code> <code>FastAPI</code><br/><br/>
-      <a href="https://github.com/Hetk8406">💻 Codebase</a>
-    </td>
-    <td width="33.3%" valign="top">
-      <h4>👁️ Vision Tracker</h4>
-      <p>Edge-optimised computer vision tracker for real-time video object classification and detection using YOLO and OpenCV.</p>
-      <code>Python</code> <code>PyTorch</code> <code>OpenCV</code><br/><br/>
-      <a href="https://github.com/Hetk8406">💻 Codebase</a>
-    </td>
-    <td width="33.3%" valign="top">
-      <h4>⚙️ MLOps Pipeline</h4>
-      <p>Autoscaling machine learning model packaging, CI/CD pipeline, tracking metrics, and deploying to GCP Cloud Run.</p>
-      <code>Docker</code> <code>GCP</code> <code>MLflow</code><br/><br/>
-      <a href="https://github.com/Hetk8406">💻 Codebase</a>
-    </td>
-  </tr>
-</table>
+| Project | Description | Tech Stack | Status | Repository | Live Demo |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **⚖️ LAWYER.AI** | Web platform connecting lawyers, students, and civilians with AI legal help and chat. | `Python`, `JS`, `HTML`, `CSS` | 🟢 Completed | [LAWYER.AI](https://github.com/Hetk8406/LAWYER.AI) | — |
+| **🎨 Portfolio** | Personal portfolio website showcasing projects, skills, and credentials. | `JS`, `CSS`, `HTML` | 🟢 Completed | [Portfolio](https://github.com/Hetk8406/Portfolio) | — |
+| **🧠 LeetCode Solutions** | Optimized solutions to various LeetCode DSA and algorithms problems. | `C++`, `DSA` | 🟢 Completed | [Solutions](https://github.com/Hetk8406/Leet-Code-Solutions) | — |
+| **🌌 RAG AI Assistant** | Retrieval-Augmented Generation assistant using LangChain to parse documents. | `Python`, `LangChain` | 🟡 In Progress | [RAG-Assistant](https://github.com/Hetk8406) | — |
+| **👁️ Vision Tracker** | Edge-optimized computer vision tracker for real-time video object detection. | `Python`, `PyTorch`, `OpenCV` | 🟢 Completed | [Vision-Tracker](https://github.com/Hetk8406) | — |
+| **⚙️ MLOps Pipeline** | Autoscaling model packaging and CI/CD pipelines deploying to GCP. | `Docker`, `GCP`, `MLflow` | 🟢 Completed | [MLOps-Pipeline](https://github.com/Hetk8406) | — |
+| **🔗 Agent Ledger** | Secure transactional decision ledger for autonomous AI agent nodes. | `Rust`, `SQLite`, `gRPC` | 🟢 Completed | [Agent-Ledger](https://github.com/Hetk8406) | — |
+| **🧩 Neural Graph** | Graph neural network visualizer representing embedding space dynamics. | `Python`, `Next.js`, `D3.js` | 🟡 In Progress | [Neural-Graph](https://github.com/Hetk8406) | — |
 
----
+*Feel free to explore my full list of repositories to see more of my work.*
+
 
 ### 📊 Analytics & Activity
 
