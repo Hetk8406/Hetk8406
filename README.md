@@ -41,7 +41,7 @@
 | Project | Description | Tech Stack | Status | Repository |
 | :--- | :--- | :--- | :--- | :--- |
 | **⚖️ LAWYER.AI** | Web platform connecting lawyers, students, and civilians with AI legal help and chat modules. | `Python`, `JS`, `HTML`, `CSS` | 🟢 Completed | [LAWYER.AI](https://github.com/lawyerai-system/Lawyer.AI-v4) |
-| **🎨 Portfolio** | Personal portfolio website showcasing projects, skills, and credentials. | `JS`, `CSS`, `HTML` | 🟢 Completed | [Portfolio](https://github.com/Hetk8406/Portfolio) |
+| **🎨 Portfolio** | Personal portfolio website showcasing projects, skills, and credentials. | `JS`, `CSS`, `HTML` | 🟢 Completed | [Portfolio](https://hetkikani.vercel.app/) |
 | **🔍 FoundIt-App** | Smart lost-and-found web app connecting reports with a university matching engine. | `JS`, `CSS`, `HTML` | 🟢 Completed | [FoundIt](https://github.com/lostfound-system/FoundIt-App) |
 | **🔎 ConceptLens** | AI education platform for professor assessments, performance dashboards, and learning metrics. | `Python`, `JS` | 🟢 Completed | [ConceptLens](https://github.com/conceptlens-system/CONCEPTLENS-v4.0) |
 | **📈 Stock Predictor** | Machine learning-based predictor analyzing and forecasting Indian stock price directions. | `Python`, `ML` | 🟢 Completed | [Stock-Predictor](https://github.com/Hetk8406/Indian-Stock-Predictor) |
