@@ -122,10 +122,6 @@
   <img src="https://streak-stats.demolab.com/?user=Hetk8406&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hetk8406&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" width="100%" />
-</p>
-
 ---
 
 <p align="center">
