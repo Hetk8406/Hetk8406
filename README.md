@@ -38,11 +38,11 @@
 | Project | Description | Tech Stack | Status | Repository |
 | :--- | :--- | :--- | :--- | :--- |
 | **⚖️ LAWYER.AI** | Web platform connecting lawyers, students, and civilians with AI legal help and chat modules. | `Python`, `JS`, `HTML`, `CSS` | 🟢 Completed | [LAWYER.AI](https://github.com/lawyerai-system/Lawyer.AI-v4) |
-| **🎨 Portfolio** | Personal portfolio website showcasing projects, skills, and credentials. | `JS`, `CSS`, `HTML` | 🟢 Completed | [Portfolio](https://hetkikani.vercel.app/) |
-| **🔍 FoundIt-App** | Smart lost-and-found web app connecting reports with a university matching engine. | `JS`, `CSS`, `HTML` | 🟢 Completed | [FoundIt](https://github.com/lostfound-system/FoundIt-App) |
-| **🔎 ConceptLens** | ConceptLens is an advanced education platform designed to help professors create exams, analyze student performance, and detect learning misconceptions using AI. | `Python`, `JS` | 🟢 Completed | [ConceptLens](https://github.com/conceptlens-system/CONCEPTLENS-v4.0) |
+| **Portfolio** | Personal portfolio website showcasing projects, skills, and credentials. | `JS`, `CSS`, `HTML` | 🟢 Completed | [Portfolio](https://hetkikani.vercel.app/) |
+| **FoundIt-App** | Smart lost-and-found web app connecting reports with a university matching engine. | `JS`, `CSS`, `HTML` | 🟢 Completed | [FoundIt](https://github.com/lostfound-system/FoundIt-App) |
+| **ConceptLens** | ConceptLens is an advanced education platform designed to help professors create exams, analyze student performance, and detect learning misconceptions using AI. | `Python`, `JS` | 🟢 Completed | [ConceptLens](https://github.com/conceptlens-system/CONCEPTLENS-v4.0) |
 | **📈 QuantCore -The Stock Predictor** | An advanced, AI-powered web application for predicting Indian (NIFTY 50) and international stock prices (such as Apple, Google, Microsoft, NVIDIA, and Tesla). | `Python`, `ML` | 🟢 Completed | [Stock-Predictor](https://github.com/Hetk8406/Indian-Stock-Predictor) |
-| **💰 Finora** | Finora is a premium, offline-first Flutter application designed for accounting, estimation, and fee calculations. | `Dart`, `C++` | 🟡 In Progress | [Finora](https://github.com/Hetk8406/Finora) |
+| **Finora** | Finora is a premium, offline-first Flutter application designed for accounting, estimation, and fee calculations. | `Dart`, `C++` | 🟡 In Progress | [Finora](https://github.com/Hetk8406/Finora) |
 
 *Feel free to explore my full list of repositories to see more of my work.*
 
