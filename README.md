@@ -42,7 +42,7 @@
 | **🔍 FoundIt-App** | Smart lost-and-found web app connecting reports with a university matching engine. | `JS`, `CSS`, `HTML` | 🟢 Completed | [FoundIt](https://github.com/lostfound-system/FoundIt-App) |
 | **🔎 ConceptLens** | AI education platform for professor assessments, performance dashboards, and learning metrics. | `Python`, `JS` | 🟢 Completed | [ConceptLens](https://github.com/conceptlens-system/CONCEPTLENS-v4.0) |
 | **📈 Stock Predictor** | Machine learning-based predictor analyzing and forecasting Indian stock price directions. | `Python`, `ML` | 🟢 Completed | [Stock-Predictor](https://github.com/Hetk8406/Indian-Stock-Predictor) |
-| **💰 Finora** | Personal financial assistant built for budget tracking, insights, and saving tips. | `Python`, `Django` | 🟡 In Progress | [Finora](https://github.com/Hetk8406/Finora) |
+| **💰 Finora** | Finora is a premium, offline-first Flutter application designed for accounting, estimation, and fee calculations. | `Dart`, `C++` | 🟡 In Progress | [Finora](https://github.com/Hetk8406/Finora) |
 
 *Feel free to explore my full list of repositories to see more of my work.*
 
