@@ -1,5 +1,5 @@
 <!-- AUTOMATICALLY GENERATED - PREMIUM GITHUB PROFILE -->
-<h1 align="center">HET Kikani</h1>
+<h1 align="center">Het Kikani</h1>
 <p align="center">
   <strong>Machine Learning Engineer & Full-Stack Developer</strong>
 </p>
